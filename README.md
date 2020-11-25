@@ -41,3 +41,11 @@ File praktikum Algoritma dan Struktur Data 2020/2021. Pra-prak 99% bener, prakny
 ### Minggu 10
 * Pra-prak  : 100%
 * Praktikum : 100%
+
+### Minggu 11
+* Pra-prak  : 100%
+* Praktikum : 100%
+
+### Minggu 12
+* Pra-prak  : 100%
+* Praktikum : 
