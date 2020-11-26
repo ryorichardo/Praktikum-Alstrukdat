@@ -48,4 +48,8 @@ File praktikum Algoritma dan Struktur Data 2020/2021. Pra-prak 99% bener, prakny
 
 ### Minggu 12
 * Pra-prak  : 100%
-* Praktikum : 
+* Praktikum : 100%
+
+### Rata-rata
+* Pra-prak  : 99.02%
+* Praktikum : 88.47%
